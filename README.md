@@ -1,4 +1,4 @@
-=### run pip shell
+### run pip shell
 ```
 python3 -m venv myvenv
 source myvenv/bin/activate
